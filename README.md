@@ -16,3 +16,5 @@ The project reflects practical implementation of front-end web development skill
 OUTPUT : 
 
 <img width="1902" height="930" alt="Image" src="https://github.com/user-attachments/assets/4785d18c-9787-4ceb-87ec-eb652a4afbb8" />
+
+<img width="1911" height="705" alt="Image" src="https://github.com/user-attachments/assets/11caf8f2-bebd-456c-962a-c72a46c91f12" />
