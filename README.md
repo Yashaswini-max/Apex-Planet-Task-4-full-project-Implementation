@@ -14,3 +14,5 @@ JavaScript is used to enhance user experience through basic interactivity.
 The project reflects practical implementation of front-end web development skills.
 
 OUTPUT : 
+
+<img width="1902" height="930" alt="Image" src="https://github.com/user-attachments/assets/4785d18c-9787-4ceb-87ec-eb652a4afbb8" />
